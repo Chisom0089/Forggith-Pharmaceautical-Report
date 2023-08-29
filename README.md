@@ -63,10 +63,13 @@ All visualizations were created using MS Power BI to form a report. The followin
 - Analgesic drugs generated the highest total revenue followed by Antiseptic, Mood Stabilizer, Antipiretics, Antibiotics and Antimalarial drugs respectively
 - The year 2024 has the highest total revenue of $2.93bn against target revenue of $5.35M, with YoY% change of 3.71 and MoM% change of 2.18 while 2025 generated the least revenue of $2.66bn against target revenue of $5.88M with YoY% change of -9.26 and MoM% change of 2.83.
 
-# Reommendations
+# Recommendations
 1. From the overal analysis, More resources and efforts should be allocated to the Pharmacy channel to further capitalize on the success
 2. Identify areas for improvement in the hospital channel so as to strengthen its revenue generation
 3. The distributors relationships needs to be prioritize and monitor their strategies to ensure their optimium performance
 4. To the low performing cities, strategies such as marketing campaigns, promotions and availabiltity of products should be employed for better yield.
 5. share best practices across teams to improve their overal performance
 6. Further investigation should be done to know why Analgesic medicines generated the highest revenue which may be adopted to improve the sales of the other products.
+
+Thank You for reading, you can interact with my Dashboard https://app.powerbi.com/view?r=eyJrIjoiMjUyYjM5NDYtYmYzNS00OTUzLWEyMmMtZjkzZGZmZjJjM2RkIiwidCI6ImFhMjY0OTEwLWQ5NjQtNDljOC1hZmE4LWJiMDg1MjczMTAyNiIsImMiOjF9
+
