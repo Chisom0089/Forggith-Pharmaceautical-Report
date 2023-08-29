@@ -24,6 +24,8 @@ Looking at the Target data, I noticed that the sales column had structural issue
 
 Before calculating my time intelligence functions, I created a Calendar/Date table which was connected to the Sales and Target table respectively. I created measures table for all my DAX calculation/measures.
 
+![forggith model view](https://github.com/Chisom0089/Forggith-Pharmaceautical-Report/assets/138637505/8ceeabb6-4207-4a2a-a26e-4b026d38948b)
+
 # Visualization
 All visualizations were created using MS Power BI to form a report. The following insights were drawn from the Analysis.
 1. The total revenue (Card Visual)
