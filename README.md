@@ -15,7 +15,7 @@ The Dataset was provided which is composed of two different files the Sales Data
 # Understanding of the Dataset
 The first step I took before embarking on the analysis is to ensure, I have a good understanding of the individual features that made up the datasets. I prepared a data dicitionary which can be seen in the picture below.
 
-![Uploading Forggith Data dictionary.png…]()
+![Forggith Data dictionary](https://github.com/Chisom0089/Forggith-Pharmaceautical-Report/assets/138637505/7a87785e-b2f9-4ace-a0d3-84b056da1aca)
 
 # Data Transformation/Modelling
 After laoding the dataset into Power query editor. I merged the Dimchannel and Subchannel using the channelId to form a single table which was connected to the main table (Sales). I appended the 2022 sales dataset with 2023-2025 sales dataset to form a single Sales data for all the years.
