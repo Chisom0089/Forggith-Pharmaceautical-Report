@@ -1,4 +1,7 @@
 # Forggith-Pharmaceautical-Report
+
+![Forggith page 1](https://github.com/Chisom0089/Forggith-Pharmaceautical-Report/assets/138637505/086e42ba-10e1-4191-b5d8-19b6f86e3dde)
+
 # Introduction
 I had completed a Power BI Developer program where I had the priviledge to use Power BI to solve real life reporting and Analytical problems. 
 
