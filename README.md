@@ -49,6 +49,8 @@ All visualizations were created using MS Power BI to form a report. The followin
 
 ![Forggith page 2](https://github.com/Chisom0089/Forggith-Pharmaceautical-Report/assets/138637505/37303a64-5735-4f92-868d-0a7a7e23a07f)
 
+# 
+
 ![Forggith page 3](https://github.com/Chisom0089/Forggith-Pharmaceautical-Report/assets/138637505/cc0b4880-f411-4c4a-b653-f054371e0c51)
 
 # Insights
