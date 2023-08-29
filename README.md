@@ -45,9 +45,11 @@ All visualizations were created using MS Power BI to form a report. The followin
 12. Total volume achieved by Managers (Clustered Bar Chart)
 13. Total Revenue by Month (Line Chart)
 14. Total Revenue by Top 10 cities (Map Visual)
-15. Total Revenue by Top 5 distributors (Clustered Bar Chart) etc
+15. Total Revenue by Top 5 distributors (Clustered Bar Chart) etc.
 
 ![Forggith page 2](https://github.com/Chisom0089/Forggith-Pharmaceautical-Report/assets/138637505/37303a64-5735-4f92-868d-0a7a7e23a07f)
+
+![Forggith page 3](https://github.com/Chisom0089/Forggith-Pharmaceautical-Report/assets/138637505/cc0b4880-f411-4c4a-b653-f054371e0c51)
 
 # Insights
 - The total revenue generated is $11.12bn against target revenue of $20.51M
